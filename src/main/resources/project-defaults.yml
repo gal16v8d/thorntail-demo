@@ -1,0 +1,15 @@
+thorntail:
+  datasources:
+    data-sources:
+      postgreSQLDS:
+        driver-name: postgres
+        connection-url: jdbc:postgresql://localhost:5432/j2ee
+        user-name: postgres
+        password: postgres
+    jdbc-drivers:
+      postgres:
+        driver-class-name: org.postgresql.Driver
+        xa-datasource-name: org.postgresql.xa.PGXADataSource
+        driver-module-name: org.postgresql
+  
+
