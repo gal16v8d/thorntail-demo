@@ -1,4 +1,4 @@
-package co.com.gsdd.rest;
+package com.gsdd.thorntail.rest;
 
 import javax.ws.rs.Path;
 import javax.ws.rs.core.Response;
