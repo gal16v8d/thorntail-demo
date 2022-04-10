@@ -6,7 +6,7 @@
 
 	<groupId>com.gsdd</groupId>
 	<artifactId>thorntail-demo</artifactId>
-	<version>1.0.001</version>
+	<version>1.0.2</version>
 	<packaging>war</packaging>
 
 	<name>Thorntail Example</name>
@@ -17,7 +17,7 @@
 		<project.build.targetEncoding>${project.encoding}</project.build.targetEncoding>
 		<project.reporting.outputEncoding>${project.encoding}</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<version.thorntail>2.4.0.Final</version.thorntail>
+		<version.thorntail>2.7.0.Final</version.thorntail>
 		<postgresql.version>42.2.12</postgresql.version>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
